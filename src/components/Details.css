@@ -1,0 +1,25 @@
+.details-container {
+  transition: background-color 0.3s ease;
+}
+
+.scrolled {
+  background-color: #343a40; /* Dark background color when scrolled */
+}
+
+.mdb-card {
+  /* Adjust card size as needed */
+}
+
+.poster-container {
+  width: 30%;
+}
+
+.info-container {
+  width: 70%;
+  padding: 1rem;
+}
+
+.poster-img {
+  width: 100%;
+  height: auto;
+}
